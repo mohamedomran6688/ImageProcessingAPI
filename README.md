@@ -1,5 +1,6 @@
 # ImageProcessingAPI
 
+#scripts
 - Install: `npm install`
 - Build: `npm run build`
 - Lint: `npm run lint`
